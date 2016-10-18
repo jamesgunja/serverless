@@ -5,7 +5,7 @@
     "node": ">=4.0"
   },
   "preferGlobal": true,
-  "description": "Serverless Framework - Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more",
+  "description": "ServerlessFramework - Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more",
   "author": "serverless.com",
   "license": "MIT",
   "repository": {
